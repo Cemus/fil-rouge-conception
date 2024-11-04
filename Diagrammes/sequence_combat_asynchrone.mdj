@@ -2110,8 +2110,8 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 120,
-									"top": 1000,
+									"left": 56,
+									"top": 1032,
 									"width": 416,
 									"height": 88,
 									"text": "(3) Scénario erreur : Le token envoyé par le Client n'est pas valide.\n3.1 Le SI envoie au Client une erreur d'authentification.\n3.2 Le Client déconnecte l'utilisateur à la suite d'un message d'erreur l'invitant à se reconnecter.\nLe scénario s'arrête ici."
@@ -2124,8 +2124,8 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 544,
-									"top": 1000,
+									"left": 480,
+									"top": 1032,
 									"width": 416,
 									"height": 88,
 									"text": "(8) Scénario erreur : La base de donnée est hors service.\n8.1 Le SI envoie un message d'erreur au Client.\n8.2 Le Client affiche un message d'erreur à l'Utilisateur \"Le serveur ne répond pas\".\nLe scénario s'arrête ici."
@@ -2138,8 +2138,8 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 544,
-									"top": 1096,
+									"left": 480,
+									"top": 1128,
 									"width": 416,
 									"height": 88,
 									"text": "(11) Scénario erreur : Erreur dans la base de donnée lors de l'enregistrement des informations du combat.\n11.1 Le SI envoie au Client une erreur de l'ajout du combat dans la base de donnée.\nLe scénario s'arrête ici."
@@ -2152,8 +2152,8 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 120,
-									"top": 1096,
+									"left": 56,
+									"top": 1128,
 									"width": 416,
 									"height": 88,
 									"text": "(4) Scénario erreur : Les informations reçues à propos des combattants sont invalides.\n4.1 Le SI envoie au Client une erreur \"Combat impossible\".\nLe scénario s'arrête ici."
@@ -2166,8 +2166,8 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 120,
-									"top": 904,
+									"left": 56,
+									"top": 936,
 									"width": 416,
 									"height": 88,
 									"text": "(2) Scénario erreur : Le serveur ne répond pas.\n2.1 Le SI envoie un message d'erreur au Client.\n2.2 Le Client affiche un message d'erreur à l'Utilisateur \"Le serveur ne répond pas\".\nLe scénario s'arrête ici."
@@ -2180,8 +2180,8 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 544,
-									"top": 904,
+									"left": 480,
+									"top": 936,
 									"width": 416,
 									"height": 88,
 									"text": "(6) Scénario erreur : Erreur lors de la génération du combat.\n6.1 Le SI envoie au Client une erreur \"Combat impossible\".\nLe scénario s'arrête ici."
@@ -2445,7 +2445,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGS6/RFM6GAjB8="
 					},
-					"name": "Role2"
+					"name": "Role2",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -2462,7 +2463,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGS6/RFM6GAjB8="
 					},
-					"name": "Role4"
+					"name": "Role4",
+					"type": ""
 				}
 			]
 		}
