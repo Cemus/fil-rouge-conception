@@ -2,3 +2,4 @@
 - Abstract en anglais
 - Revoir la concurrence
 - Diagramme de classe
+- Rapport de performance (lighthouse)
