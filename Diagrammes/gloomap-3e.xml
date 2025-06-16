@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gloomaps scheme="1.0">
+  <link>https://www.gloomaps.com/sktxkCYRC4</link>
+  <pubdate>03/30/2025</pubdate>
+  <section>
+    <box>
+      <text>Accueil</text>
+      <member>
+        <box>
+          <text>Actualités</text>
+          <member/>
+        </box>
+        <box>
+          <text>Guide</text>
+          <member/>
+        </box>
+        <box>
+          <text>Mentions légales</text>
+          <member/>
+        </box>
+        <box>
+          <text>S'enregistrer</text>
+          <member>
+            <box>
+              <text>Création du personnage</text>
+              <member/>
+            </box>
+          </member>
+        </box>
+        <box>
+          <text>Se connecter</text>
+          <member>
+            <box>
+              <text>Profil du personnage</text>
+              <member/>
+            </box>
+            <box>
+              <text>Configuration du compte</text>
+              <member/>
+            </box>
+            <box>
+              <text>Gestion des cartes</text>
+              <member/>
+            </box>
+            <box>
+              <text>Gestion des équipements</text>
+              <member/>
+            </box>
+            <box>
+              <text>Arène</text>
+              <member>
+                <box>
+                  <text>Combat</text>
+                  <member>
+                    <box>
+                      <text>Bilan du combat</text>
+                      <member/>
+                    </box>
+                  </member>
+                </box>
+                <box>
+                  <text>Classement</text>
+                  <member/>
+                </box>
+              </member>
+            </box>
+            <box>
+              <text>Boutique</text>
+              <member>
+                <box>
+                  <text>Boutique d'équipements</text>
+                  <member/>
+                </box>
+                <box>
+                  <text>Boutique de cartes</text>
+                  <member/>
+                </box>
+              </member>
+            </box>
+          </member>
+        </box>
+      </member>
+    </box>
+  </section>
+</gloomaps>

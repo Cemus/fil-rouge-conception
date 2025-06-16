@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gloomaps scheme="1.0">
+  <link>https://www.gloomaps.com/cvDJwMc4Dx</link>
+  <pubdate>01/20/2025</pubdate>
+  <section>
+    <box>
+      <text>Accueil</text>
+      <member>
+        <box>
+          <text>Actualité</text>
+          <member/>
+        </box>
+        <box>
+          <text>Guide</text>
+          <member/>
+        </box>
+        <box>
+          <text>Mentions légales</text>
+          <member/>
+        </box>
+        <box>
+          <text>Créer un compte</text>
+          <member>
+            <box>
+              <text>Créer un personnage</text>
+              <member/>
+            </box>
+          </member>
+        </box>
+        <box>
+          <text>Se connecter</text>
+          <member>
+            <box>
+              <text>Configuration du compte</text>
+              <member/>
+            </box>
+            <box>
+              <text>Profil joueur</text>
+              <member/>
+            </box>
+            <box>
+              <text>Cartes</text>
+              <member/>
+            </box>
+            <box>
+              <text>Equipement</text>
+              <member/>
+            </box>
+            <box>
+              <text>Arène</text>
+              <member>
+                <box>
+                  <text>Combat</text>
+                  <member>
+                    <box>
+                      <text>Bilan de combat</text>
+                      <member/>
+                    </box>
+                  </member>
+                </box>
+                <box>
+                  <text>Classement</text>
+                  <member/>
+                </box>
+              </member>
+            </box>
+            <box>
+              <text>Boutique</text>
+              <member>
+                <box>
+                  <text>Boutique de cartes</text>
+                  <member/>
+                </box>
+                <box>
+                  <text>Boutique d'équipement</text>
+                  <member/>
+                </box>
+              </member>
+            </box>
+          </member>
+        </box>
+      </member>
+    </box>
+  </section>
+</gloomaps>

@@ -848,7 +848,7 @@
 												"$ref": "AAAAAAGS6/YY8KIo54M="
 											},
 											"edgePosition": 1,
-											"text": "4 : Récupère les informations des combattants"
+											"text": "4 : Récupérer les informations des combattants"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -2239,7 +2239,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGS6/RFM6GB17g="
 							},
-							"name": "Récupère les informations des combattants",
+							"name": "Récupérer les informations des combattants",
 							"source": {
 								"$ref": "AAAAAAGS6/SlEqGvJmo="
 							},
