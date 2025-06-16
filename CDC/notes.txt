@@ -1,2 +1,4 @@
 - Fond blanc pour le code
 - Abstract en anglais
+- Revoir la concurrence
+- Diagramme de classe
