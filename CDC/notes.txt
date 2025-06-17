@@ -4,9 +4,9 @@
 - Diagramme de classe
 - Rapport de performance (lighthouse)
 
-Liste des compétences du référentiel qui sont couvertes par le projet ( à mettre en première page)
-Résumé du projet en anglais d’une longueur d’environ 20 lignes soit 200 à 250 mots, ou environ 1200 caractères espaces non compris @ladycatherine3692
-Cahier des charges ou expression des besoins du projet
+Liste des compétences du référentiel qui sont couvertes par le projet ( à mettre en première page) X
+Résumé du projet en anglais d’une longueur d’environ 20 lignes soit 200 à 250 mots, ou environ 1200 caractères espaces non compris X
+Cahier des charges ou expression des besoins du projet X
 Gestion de projet (planning et suivi, environnement humain et technique, objectifs de qualité)
 Spécifications fonctionnelles du projet (diag cas d'utilisation/ activité/ séquence/ classe)
 Spécifications techniques du projet, y compris pour la sécurité (conception) (outils- MCD/MLD/SQL)
