@@ -2128,7 +2128,7 @@
 									"top": 1032,
 									"width": 416,
 									"height": 88,
-									"text": "(8) Scénario erreur : La base de donnée est hors service.\n8.1 Le SI envoie un message d'erreur au Client.\n8.2 Le Client affiche un message d'erreur à l'Utilisateur \"Le serveur ne répond pas\".\nLe scénario s'arrête ici."
+									"text": "(8) Scénario erreur : La base de données est hors service.\n8.1 Le SI envoie un message d'erreur au Client.\n8.2 Le Client affiche un message d'erreur à l'Utilisateur \"Le serveur ne répond pas\".\nLe scénario s'arrête ici."
 								},
 								{
 									"_type": "UMLNoteView",
@@ -2142,7 +2142,7 @@
 									"top": 1128,
 									"width": 416,
 									"height": 88,
-									"text": "(11) Scénario erreur : Erreur dans la base de donnée lors de l'enregistrement des informations du combat.\n11.1 Le SI envoie au Client une erreur de l'ajout du combat dans la base de donnée.\nLe scénario s'arrête ici."
+									"text": "(11) Scénario erreur : Erreur dans la base de données lors de l'enregistrement des informations du combat.\n11.1 Le SI envoie au Client une erreur de l'ajout du combat dans la base de donnée.\nLe scénario s'arrête ici."
 								},
 								{
 									"_type": "UMLNoteView",
