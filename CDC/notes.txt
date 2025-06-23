@@ -1,0 +1,16 @@
+- Fond blanc pour le code
+- Abstract en anglais
+- Revoir la concurrence
+- Diagramme de classe
+- Rapport de performance (lighthouse)
+
+Liste des compétences du référentiel qui sont couvertes par le projet ( à mettre en première page) X
+Résumé du projet en anglais d’une longueur d’environ 20 lignes soit 200 à 250 mots, ou environ 1200 caractères espaces non compris X
+Cahier des charges ou expression des besoins du projet X
+Gestion de projet (planning et suivi, environnement humain et technique, objectifs de qualité)
+Spécifications fonctionnelles du projet (diag cas d'utilisation/ activité/ séquence/ classe)
+Spécifications techniques du projet, y compris pour la sécurité (conception) (outils- MCD/MLD/SQL)
+Réalisations  comportant les extraits de code les plus significatifs et en les argumentant, y compris pour la sécurité
+Présentation du jeu d’essai élaboré de la fonctionnalité la plus représentative (données en entrée, données attendues, données obtenues)
+Description de la veille, effectuée durant le projet, sur les vulnérabilités de sécurité
+Description d’une situation de travail ayant nécessité une recherche et effectuée durant le projet
